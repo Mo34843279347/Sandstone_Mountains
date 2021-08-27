@@ -1,0 +1,7 @@
+X,Y,Z,azimuth,dip,polarity,formation
+1000,1,0,90,0,1,surface1
+1000,1,-200,90,0,1,surface2
+400,1,50,90,0,1,surface3
+400,1,200,90,0,1,surface4
+400,1,300,90,0,1,surface5
+600,1,50,90,60,1,Fault
